@@ -2,8 +2,12 @@ A file to share data about goalkeepers at this Tournament.
 
 Inspired by Simon Gleaves' work (https://twitter.com/SimonGleave).
 
-Information about goalkeepers collected from FIFA data.
+Information about goalkeepers collected from FIFA data and is included in a csv file 
+
+in this repository (https://github.com/2622NSW/WWCFIFA19/blob/master/G20.csv).
 
 First file is of 20 group games.
 
 The median height of goalkeepers in these games was 175 cms.
+
+There are four jpg files to indicate in cms by game number and country (GK174N, GK174C, GK175N, GK175C).
